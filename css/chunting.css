@@ -1,0 +1,181 @@
+body {
+    font-family: 'Muli', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    padding-top: 50px;
+    color: #868e96;
+  }
+
+.fa {
+    padding: 15px;
+    font-size: 30px;
+    width: 60px;
+    text-align: center;
+    margin: 5px 3px;
+    border-radius: 50%;
+}
+
+.fab {
+    font-size: 55px;
+}
+
+.dev-icons .list-inline-item i:hover {
+    color: #BC8F8F;
+  }
+
+.fa-facebook {
+    background: #495057;
+    color: white;
+    text-decoration:none;
+
+}
+
+.fa-linkedin {
+    background: #495057;
+    color: white;
+}
+
+.fa-twitter {
+    background: #495057;
+    color: white;
+}
+
+.fa-instagram {
+    background: #495057;
+    color: white;
+  }
+
+.fa-html5{
+    color: #495057;
+}
+
+.fa-css3-alt{
+    color: #495057;
+}
+
+#social-icons a:hover {
+    text-decoration:none;
+    color: #BC8F8F;
+}
+
+#navbar{
+    width: 400px;
+    height: 100%;
+    background-color: #BC8F8F;
+    display: block;
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+
+.navbar-nav{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 35px;
+    letter-spacing: 0.03rem;
+    display: flex;
+}
+
+ul li a{
+    font-size: 15px;
+    color: whitesmoke;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.navbar-nav a:hover{
+    text-decoration:none;
+    color: #343a40;
+}
+
+.profile{
+    width:auto;
+    height:100%;
+    margin-left: 410px;
+    margin-top: 100px;
+    text-align: left;
+}
+
+.name{
+    color: #BC8F8F;
+    font-size: 55px;
+}
+
+.opening{
+    color: #343a40;
+    font-size: 55px;
+    font-family: 'Saira Extra Condensed','Segoe UI','Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+    font-weight: 900;
+    letter-spacing: 0.02rem;
+    text-transform: uppercase;
+}
+
+.contact{
+    font-family:Arial, Helvetica, sans-serif;
+    color: #343a40;
+    font-size: 18px;
+}
+
+p{
+    font-family:Arial, Helvetica, sans-serif;
+    color:#70767c;
+    font-size: 15.5px;
+}
+
+ul{
+    font-family:Arial, Helvetica, sans-serif;
+    color:#70767c;
+    font-size: 15px;
+}
+
+img{
+    margin-top:30px;
+    display:block;
+}
+
+.resume_section{
+    width:auto;
+    height:100%;
+    margin-left: 410px;
+    text-align: left; 
+}
+
+.time{
+    font-size: 16px;
+    color: rgb(156, 114, 114);
+    text-align: right;
+}
+
+.experience-time{
+    display: inline;
+    min-width: none;
+}
+
+.subheading {
+    font-size: 40px;
+    color: #343a40;
+    text-transform: uppercase;
+  }
+
+.A{
+    font-size: 30px;
+    color: #343a40;
+}
+
+.B{
+    font-size: 20px;
+    color: #343a40;
+}
+
+.C{
+    font-size: 20px;
+    color: #70767c;
+}
+
+.D{
+    font-family:Arial, Helvetica, sans-serif;
+    color:#70767c;
+    font-size: 15px;
+}
+
+section.resume-section {
+    min-height: 100vh;
+}
