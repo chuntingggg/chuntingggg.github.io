@@ -268,11 +268,11 @@ a:hover,a:focus{background-color:transparent; color:#212529; text-decoration: no
 		width:96%;
 		margin:auto;
 		padding-left:0;
-		padding-top:160px;
+		padding-top:210px;
 	}
 	.sidenav{
 		width:100%;
-		height:250px;
+		height:200px;
 	}
 	.sidenav .navBox{
 		display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between;	
