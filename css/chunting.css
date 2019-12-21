@@ -272,7 +272,7 @@ a:hover,a:focus{background-color:transparent; color:#212529; text-decoration: no
 	}
 	.sidenav{
 		width:100%;
-		height:250px;
+		height:230px;
 	}
 	.sidenav .navBox{
 		display: flex; flex-direction: row; flex-wrap: nowrap; justify-content: space-between;	
